@@ -6,9 +6,9 @@ I'm a Computer Science Engineering student with a passion for building innovativ
 
 I'm a curious and dedicated learner, always looking to expand my skills in software development. My areas of interest include:
 
-Java and Advanced Java.
-Spring and Spring Boot.
-Front-end development with HTML/CSS, JavaScript.
+Java and Advanced Java,
+Spring and Spring Boot,
+Front-end development with HTML/CSS, JavaScript,
 Python programming.
 
 **My Projects**
@@ -26,9 +26,9 @@ A recipe sharing website built using HTML/CSS and JavaScript that allows users t
 
 **Skills**
 
-Front-end development: HTML, CSS, JavaScript.
-Programming languages: Java, Python.
-Frameworks: Spring, Spring Boot.
+Front-end development: HTML, CSS, JavaScript,
+Programming languages: Java, Python,
+Frameworks: Spring, Spring Boot,
 Other skills: Problem-solving, Team collaboration.
 **Get in Touch**
 
@@ -37,6 +37,7 @@ If you'd like to discuss a project, collaborate on an idea, or just say hello, f
 **GitHub:** @pophaleom030
 **Email:** pophaleom030@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/om-pophale-565bb622a
+
 **Let's Build Something Amazing!**
 
 I'm excited to connect with like-minded individuals and work on projects that make a difference. Let's collaborate and create something amazing together!
