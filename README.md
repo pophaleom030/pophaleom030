@@ -7,9 +7,13 @@ I'm a Computer Science Engineering student with a passion for building innovativ
 I'm a curious and dedicated learner, always looking to expand my skills in software development. My areas of interest include:
 
 Java and Advanced Java
+
 Spring and Spring Boot
+
 Front-end development with HTML/CSS, JavaScript
+
 Python programming
+
 **My Projects**
 
 I've recently developed three exciting projects that showcase my skills and interests. Take a look:
