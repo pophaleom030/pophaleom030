@@ -30,6 +30,7 @@ Front-end development: HTML, CSS, JavaScript,
 Programming languages: Java, Python,
 Frameworks: Spring, Spring Boot,
 Other skills: Problem-solving, Team collaboration.
+
 **Get in Touch**
 
 If you'd like to discuss a project, collaborate on an idea, or just say hello, feel free to reach out to me:
